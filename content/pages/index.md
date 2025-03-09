@@ -8,7 +8,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
-  url: /images/logo1.svg
+  url: /images/post-3.jpg
 sections:
   - elementId: ''
     colors: colors-f
