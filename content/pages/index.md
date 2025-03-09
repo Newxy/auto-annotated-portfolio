@@ -15,9 +15,8 @@ sections:
     backgroundSize: full
     title: XY World
     subtitle: >-
-      This website showcases my projects that I have worked on. If you are
-      interested, you can continue to scroll down to see more details and
-      credentials about me.
+      This website showcases my projects. If you are interested, you can
+      continue to scroll down to see more details and credentials about me.
     styles:
       self:
         height: auto
